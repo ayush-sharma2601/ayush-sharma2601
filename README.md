@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and cross-platform development.\
 ✍️ &nbsp;In my free time, I pursue UI/UX design and competitive coding as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for working on projects.\
-✉️ &nbsp;You can shoot me an email at ayushsh2601@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at ayushsh2601@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right"/>

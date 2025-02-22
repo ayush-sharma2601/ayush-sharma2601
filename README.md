@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am an android developer and like to explore new technologies.\
-🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at the BITS Pilani, Goa Campus.\
+💡 &nbsp;I am an software developer and like to explore new technologies.\
+🎓 &nbsp;I have graduated in Electronics and Communication Engineering at the BITS Pilani, Goa Campus.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and cross-platform development.\
 ✍️ &nbsp;In my free time, I pursue UI/UX design and competitive coding as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for working on projects.\
